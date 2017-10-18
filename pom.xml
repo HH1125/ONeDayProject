@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>cn.mldn</groupId>
-	<artifactId>mldnspring</artifactId>
+	<artifactId>OneDayProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>mldnspring</name>
+	<name>OneDayProject</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -93,9 +93,9 @@
 		</plugins>
 	</build>
 	<modules>
-		<module>mldnspring-ioc</module>
-		<module>mldnspring-di</module>
-		<module>mldnspring-context</module>
-		<module>mldnspring-resource</module>
+		<module>OneDayProject-ioc</module>
+		<module>OneDayProject-di</module>
+		<module>OneDayProject-context</module>
+		<module>OneDayProject-resource</module>
 	</modules>
 </project>

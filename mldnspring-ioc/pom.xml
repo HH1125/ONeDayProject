@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>cn.mldn</groupId>
-		<artifactId>mldnspring</artifactId>
+		<artifactId>OneDayProject</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>mldnspring-ioc</artifactId>
-	<name>mldnspring-ioc</name>
+	<artifactId>OneDayProject-ioc</artifactId>
+	<name>OneDayProject-ioc</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
